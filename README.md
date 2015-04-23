@@ -1,0 +1,1 @@
+A demo app by [SP+EE](http://sp-ee.net) to try out the features of Apple’s ResearchKit.
